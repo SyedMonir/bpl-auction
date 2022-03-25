@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Player from '../Player/Player';
 
 const Players = () => {
   const [players, setPlayers] = useState([]);
@@ -12,7 +13,15 @@ const Players = () => {
   }, []);
   console.log(players);
 
-  return <div></div>;
+  return (
+    <div className="container">
+      <div className="row">
+        {players.map((player) => (
+          <Player key={player.id} player={player}></Player>
+        ))}
+      </div>
+    </div>
+  );
 };
 
 export default Players;

@@ -14,25 +14,43 @@
   {
     "id": "3",
     "name": "Mustafizur Rahman",
-    "img": "./images/mustafizur-rahman.png",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319700/319734.png",
     "Salary": 1342464
   },
   {
     "id": "4",
     "name": "Musfiqur Rahman",
-    "img": "./images/musfiqur-rahman.png",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316500/316578.png",
     "Salary": 65336464
   },
   {
     "id": "5",
     "name": "Mehidy Hasan",
-    "img": "./images/mehidy-hasan.png",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319700/319728.png",
     "Salary": 61326464
   },
   {
     "id": "6",
     "name": "Liton Das",
-    "img": "./images/liton.png",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/319700/319727.png",
+    "Salary": 9846464
+  },
+  {
+    "id": "7",
+    "name": "Mohammad Saifuddin",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/322800/322800.png",
+    "Salary": 9846464
+  },
+  {
+    "id": "8",
+    "name": "Mohammad Mahmudullah",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316500/316571.png",
+    "Salary": 9846464
+  },
+  {
+    "id": "9",
+    "name": "Mohammad",
+    "img": "https",
     "Salary": 9846464
   }
 ]

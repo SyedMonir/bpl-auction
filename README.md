@@ -1,4 +1,4 @@
-Player Data: https://raw.githubusercontent.com/SyedMonir/bpl-auction/main/public/players.json
+## Player Data: https://raw.githubusercontent.com/SyedMonir/bpl-auction/main/public/players.json
 
 # Getting Started with Create React App
 

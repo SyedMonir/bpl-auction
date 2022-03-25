@@ -1,0 +1,17 @@
+#players {
+    background-color: rgb(76, 185, 76);
+}
+
+#cart {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    background-color: rgb(189, 13, 13);
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 15%;
+    margin: auto;
+    cursor: pointer;
+    color: white;
+
+}

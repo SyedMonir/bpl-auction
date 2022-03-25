@@ -1,0 +1,11 @@
+.player .card {
+    background-color: rgb(189, 13, 13);
+    color: white;
+    text-align: center;
+}
+
+.player .card .btn {
+    width: 100%;
+    background-color: rgb(51, 202, 51);
+    color: white;
+}

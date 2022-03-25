@@ -2,13 +2,13 @@
   {
     "id": "1",
     "name": "Tamim Iqbal",
-    "img": "./images/tamim-iqbal.png",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316500/316583.png",
     "Salary": 65426464
   },
   {
     "id": "2",
     "name": "Sakib Al Hasan",
-    "img": "./images/sakib-al-hasan.png",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316500/316581.png",
     "Salary": 65432464
   },
   {
@@ -49,8 +49,14 @@
   },
   {
     "id": "9",
-    "name": "Mohammad",
-    "img": "https",
+    "name": "Afif Hossain",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/323100/323159.png",
+    "Salary": 9846464
+  },
+  {
+    "id": "10",
+    "name": "Rubel Hossain",
+    "img": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_f_345/lsci/db/PICTURES/CMS/316600/316634.png",
     "Salary": 9846464
   }
 ]

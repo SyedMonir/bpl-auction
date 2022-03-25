@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Tamim Iqbal",
+    "img": "./images/tamim-iqbal.png",
+    "Salary": 65426464
+  },
+  {
+    "id": "2",
+    "name": "Sakib Al Hasan",
+    "img": "./images/sakib-al-hasan.png",
+    "Salary": 65432464
+  },
+  {
+    "id": "3",
+    "name": "Mustafizur Rahman",
+    "img": "./images/mustafizur-rahman.png",
+    "Salary": 1342464
+  },
+  {
+    "id": "4",
+    "name": "Musfiqur Rahman",
+    "img": "./images/musfiqur-rahman.png",
+    "Salary": 65336464
+  },
+  {
+    "id": "5",
+    "name": "Mehidy Hasan",
+    "img": "./images/mehidy-hasan.png",
+    "Salary": 61326464
+  },
+  {
+    "id": "6",
+    "name": "Liton Das",
+    "img": "./images/liton.png",
+    "Salary": 9846464
+  }
+]
